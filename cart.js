@@ -103,3 +103,5 @@ let customer = {
     table: 5,
     rewards: true
 }
+
+console.log(customer);
